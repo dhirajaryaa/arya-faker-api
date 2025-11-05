@@ -1,0 +1,6 @@
+/node_modules
+*.log
+local.db
+express.log
+.vscode
+.env
