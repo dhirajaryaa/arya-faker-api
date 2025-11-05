@@ -24,4 +24,4 @@ app.use("/api/profiles", usersRouter);
 
 // server running 
 const PORT = process.env.PORT || 4000;
-app.listen(PORT, () => console.log(`API http://localhost:${PORT}`));
+app.listen(PORT, () => console.log(`Server Running on http://localhost:${PORT}`));
